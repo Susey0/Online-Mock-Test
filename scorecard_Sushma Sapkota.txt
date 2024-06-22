@@ -1,0 +1,408 @@
+User: Sushma Sapkota
+Score: 6
+Percentage: 30%
+
+Question: Grammar <br />
+1. The woman is dressed …………. a blue sari.
+Selected Option: a) in
+Correct Option: a) in
+Result: Correct
+
+Question: Grammar <br />
+1. The woman is dressed …………. a blue sari.
+Selected Option: a) in
+Correct Option: b)with
+Result: Incorrect
+
+Question: Grammar <br />
+1. The woman is dressed …………. a blue sari.
+Selected Option: a) in
+Correct Option: c)by
+Result: Incorrect
+
+Question: Grammar <br />
+1. The woman is dressed …………. a blue sari.
+Selected Option: a) in
+Correct Option: d)at
+Result: Incorrect
+
+Question: 2. They enjoyed ……………. Christmas.
+Selected Option: b)during
+Correct Option: a) in
+Result: Incorrect
+
+Question: 2. They enjoyed ……………. Christmas.
+Selected Option: b)during
+Correct Option: b)during
+Result: Incorrect
+
+Question: 2. They enjoyed ……………. Christmas.
+Selected Option: b)during
+Correct Option: c)on
+Result: Incorrect
+
+Question: 2. They enjoyed ……………. Christmas.
+Selected Option: b)during
+Correct Option: d)at
+Result: Correct
+
+Question: 3. ………….. silver is precious metal.
+Selected Option: c)the
+Correct Option: a) a
+Result: Incorrect
+
+Question: 3. ………….. silver is precious metal.
+Selected Option: c)the
+Correct Option: b)an
+Result: Incorrect
+
+Question: 3. ………….. silver is precious metal.
+Selected Option: c)the
+Correct Option: c)the
+Result: Incorrect
+
+Question: 3. ………….. silver is precious metal.
+Selected Option: c)the
+Correct Option: d)none
+Result: Correct
+
+Question: 4. What is the passive of "I did it."?
+Selected Option: b) It is being done.
+Correct Option: a) It is done.
+Result: Incorrect
+
+Question: 4. What is the passive of "I did it."?
+Selected Option: b) It is being done.
+Correct Option: b) It is being done.
+Result: Incorrect
+
+Question: 4. What is the passive of "I did it."?
+Selected Option: b) It is being done.
+Correct Option: c) It was done.
+Result: Correct
+
+Question: 4. What is the passive of "I did it."?
+Selected Option: b) It is being done.
+Correct Option: d) It has been done.
+Result: Incorrect
+
+Question: 5. Come and sit …………. me.
+Selected Option: c) at
+Correct Option: a) by
+Result: Correct
+
+Question: 5. Come and sit …………. me.
+Selected Option: c) at
+Correct Option: b)over
+Result: Incorrect
+
+Question: 5. Come and sit …………. me.
+Selected Option: c) at
+Correct Option: c) at
+Result: Incorrect
+
+Question: 5. Come and sit …………. me.
+Selected Option: c) at
+Correct Option: d)on
+Result: Incorrect
+
+Question: 6. She is …………… with good health.
+Selected Option: c) blesseed
+Correct Option: a) belessed
+Result: Incorrect
+
+Question: 6. She is …………… with good health.
+Selected Option: c) blesseed
+Correct Option: b)blessed
+Result: Correct
+
+Question: 6. She is …………… with good health.
+Selected Option: c) blesseed
+Correct Option: c) blesseed
+Result: Incorrect
+
+Question: 6. She is …………… with good health.
+Selected Option: c) blesseed
+Correct Option: d)blesed
+Result: Incorrect
+
+Question: 7. The plural form of "ape" is
+Selected Option: a)apes
+Correct Option: a)apes
+Result: Correct
+
+Question: 7. The plural form of "ape" is
+Selected Option: a)apes
+Correct Option: b) apo
+Result: Incorrect
+
+Question: 7. The plural form of "ape" is
+Selected Option: a)apes
+Correct Option: c) apeses
+Result: Incorrect
+
+Question: 7. The plural form of "ape" is
+Selected Option: a)apes
+Correct Option: d)none
+Result: Incorrect
+
+Question: 8. If overt is to secret in the same way as cautious is to ……….
+Selected Option: c)clever
+Correct Option: a) pompous
+Result: Incorrect
+
+Question: 8. If overt is to secret in the same way as cautious is to ……….
+Selected Option: c)clever
+Correct Option: b)rash
+Result: Correct
+
+Question: 8. If overt is to secret in the same way as cautious is to ……….
+Selected Option: c)clever
+Correct Option: c)clever
+Result: Incorrect
+
+Question: 8. If overt is to secret in the same way as cautious is to ……….
+Selected Option: c)clever
+Correct Option: d)coy
+Result: Incorrect
+
+Question: 9. What …………………..if you were bitten by a poisonous snake?
+Selected Option: c)would you do
+Correct Option: a)were you do
+Result: Incorrect
+
+Question: 9. What …………………..if you were bitten by a poisonous snake?
+Selected Option: c)would you do
+Correct Option: b)would you have done
+Result: Incorrect
+
+Question: 9. What …………………..if you were bitten by a poisonous snake?
+Selected Option: c)would you do
+Correct Option: c)would you do
+Result: Incorrect
+
+Question: 9. What …………………..if you were bitten by a poisonous snake?
+Selected Option: c)would you do
+Correct Option: d)would you had done
+Result: Correct
+
+Question: 10. She thanked me for what I ……….
+Selected Option: d)had done
+Correct Option: a)did
+Result: Incorrect
+
+Question: 10. She thanked me for what I ……….
+Selected Option: d)had done
+Correct Option: b)do
+Result: Incorrect
+
+Question: 10. She thanked me for what I ……….
+Selected Option: d)had done
+Correct Option: c) have done
+Result: Incorrect
+
+Question: 10. She thanked me for what I ……….
+Selected Option: d)had done
+Correct Option: d)had done
+Result: Correct
+
+Question: 11. I am happy…………..?
+Selected Option: b)aren't I
+Correct Option: a)am I
+Result: Incorrect
+
+Question: 11. I am happy…………..?
+Selected Option: b)aren't I
+Correct Option: b)aren't I
+Result: Correct
+
+Question: 11. I am happy…………..?
+Selected Option: b)aren't I
+Correct Option: c) can I
+Result: Incorrect
+
+Question: 11. I am happy…………..?
+Selected Option: b)aren't I
+Correct Option: d)do I
+Result: Incorrect
+
+Question: 12. Never yield …………… temptation.
+Selected Option: c) to
+Correct Option: a) for
+Result: Incorrect
+
+Question: 12. Never yield …………… temptation.
+Selected Option: c) to
+Correct Option: b)in
+Result: Incorrect
+
+Question: 12. Never yield …………… temptation.
+Selected Option: c) to
+Correct Option: c) to
+Result: Correct
+
+Question: 12. Never yield …………… temptation.
+Selected Option: c) to
+Correct Option: d)over
+Result: Incorrect
+
+Question: 13. I prefer coffee ……… tea
+Selected Option: c) by
+Correct Option: a) with
+Result: Incorrect
+
+Question: 13. I prefer coffee ……… tea
+Selected Option: c) by
+Correct Option: b)over
+Result: Incorrect
+
+Question: 13. I prefer coffee ……… tea
+Selected Option: c) by
+Correct Option: c) by
+Result: Incorrect
+
+Question: 13. I prefer coffee ……… tea
+Selected Option: c) by
+Correct Option: d)to
+Result: Correct
+
+Question: 14. Synonyms of “asset” is
+Selected Option: c) gem
+Correct Option: a) aid
+Result: Correct
+
+Question: 14. Synonyms of “asset” is
+Selected Option: c) gem
+Correct Option: b) credit
+Result: Incorrect
+
+Question: 14. Synonyms of “asset” is
+Selected Option: c) gem
+Correct Option: c) gem
+Result: Incorrect
+
+Question: 14. Synonyms of “asset” is
+Selected Option: c) gem
+Correct Option: d) favor
+Result: Incorrect
+
+Question: 15. The teacher seemed …………………….
+Selected Option: b)happiness
+Correct Option: a) relaxed
+Result: Correct
+
+Question: 15. The teacher seemed …………………….
+Selected Option: b)happiness
+Correct Option: b)happiness
+Result: Incorrect
+
+Question: 15. The teacher seemed …………………….
+Selected Option: b)happiness
+Correct Option: c) quickly
+Result: Incorrect
+
+Question: 15. The teacher seemed …………………….
+Selected Option: b)happiness
+Correct Option: d)bore
+Result: Incorrect
+
+Question: 16. Let's go, ……………?
+Selected Option: b)shall you
+Correct Option: a) will you
+Result: Incorrect
+
+Question: 16. Let's go, ……………?
+Selected Option: b)shall you
+Correct Option: b)shall you
+Result: Incorrect
+
+Question: 16. Let's go, ……………?
+Selected Option: b)shall you
+Correct Option: c) shall we
+Result: Correct
+
+Question: 16. Let's go, ……………?
+Selected Option: b)shall you
+Correct Option: d)will we
+Result: Incorrect
+
+Question: 17. …………….. his leg is broken, he ran fast
+Selected Option: c)despite off
+Correct Option: a) however
+Result: Incorrect
+
+Question: 17. …………….. his leg is broken, he ran fast
+Selected Option: c)despite off
+Correct Option: b)although
+Result: Correct
+
+Question: 17. …………….. his leg is broken, he ran fast
+Selected Option: c)despite off
+Correct Option: c)despite off
+Result: Incorrect
+
+Question: 17. …………….. his leg is broken, he ran fast
+Selected Option: c)despite off
+Correct Option: d)in spite of
+Result: Incorrect
+
+Question: 18. They said, "Where is the zoo?"
+Selected Option: b) they wanted to know where the zoo was.
+Correct Option: a) They asked me where the zoo was.
+Result: Incorrect
+
+Question: 18. They said, "Where is the zoo?"
+Selected Option: b) they wanted to know where the zoo was.
+Correct Option: b) they wanted to know where the zoo was.
+Result: Incorrect
+
+Question: 18. They said, "Where is the zoo?"
+Selected Option: b) they wanted to know where the zoo was.
+Correct Option: c) They asked where the zoo is.
+Result: Incorrect
+
+Question: 18. They said, "Where is the zoo?"
+Selected Option: b) they wanted to know where the zoo was.
+Correct Option: d) they inquired where the zoo is.
+Result: Correct
+
+Question: 19. "Domestic" is same as……….
+Selected Option: d)foreign
+Correct Option: a)locale
+Result: Incorrect
+
+Question: 19. "Domestic" is same as……….
+Selected Option: d)foreign
+Correct Option: b)local
+Result: Incorrect
+
+Question: 19. "Domestic" is same as……….
+Selected Option: d)foreign
+Correct Option: c)country
+Result: Correct
+
+Question: 19. "Domestic" is same as……….
+Selected Option: d)foreign
+Correct Option: d)foreign
+Result: Incorrect
+
+Question: 20. We saw them ……………. out.
+Selected Option: a) go
+Correct Option: a) go
+Result: Correct
+
+Question: 20. We saw them ……………. out.
+Selected Option: a) go
+Correct Option: b )to go
+Result: Incorrect
+
+Question: 20. We saw them ……………. out.
+Selected Option: a) go
+Correct Option: c) going
+Result: Incorrect
+
+Question: 20. We saw them ……………. out.
+Selected Option: a) go
+Correct Option: d)went
+Result: Incorrect
+
