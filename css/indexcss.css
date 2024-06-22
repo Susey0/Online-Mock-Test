@@ -1,0 +1,371 @@
+.dashboard-link {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 15px; /* Padding */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+}
+
+.dashboard-link:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.logout-link-attractive {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.logout-link-attractive:hover {
+    background-color: #c82333;
+}
+.welcome-container {
+    display: flex;
+    align-items: center;
+}
+
+.welcome-message {
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4CAF50; /* Green color for the welcome message */
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+/* Styles for Welcome and Username */
+.nav a {
+    color: #fff;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Styles for Logout and User Dashboard buttons */
+.nav a.logout-button,
+.nav a.user-dashboard-button {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.nav a.logout-button:hover {
+    background-color: #c82333; /* Change the color on hover */
+}
+.nav a.logout-button:active,
+.nav a.user-dashboard-button:active {
+    background-color: #c82333; /* Change the color when clicked */
+}
+
+/* Additional styles for hover effect on Welcome and Username */
+.nav a:hover {
+    text-decoration: underline;
+    color: #e56b53;
+}
+
+.login,
+.register {
+    background-color: #fa9579;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    border: 3px solid black;
+    margin-right: 60px;
+    width: 120px; 
+    text-align: center; 
+}
+.login:hover,
+.register:hover {
+    font-size: 14px;
+    padding: 6px 15px;
+}
+.login:active,
+.register:active {
+    background-color: #e56b53; /* Change the color to your preference */
+}
+button.register{
+    background-color: 30475e;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: poppins;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #30475e;
+    color: white;
+    padding: 10px; /* Adjust padding as needed */
+    z-index: 2;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+header img {
+    width: 70px;
+    height: auto;
+    margin-right: 10px; /* Adjust margin for spacing */
+}
+
+header h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+header nav.nav-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header nav.nav-links a {
+    color: white;
+    margin-right: 50px; /* Adjust margin for spacing */
+    font-weight: bold;
+    font-size: 16px; /* Adjust font size */
+    transition: color 0.3s ease-in-out; /* Smooth color transition */
+}
+
+header nav.nav-links a:hover {
+    text-decoration: underline;
+}
+
+header div.sign-in-up {
+    display: flex;
+    align-items: center;
+}
+
+/* Popup Styles */
+div.popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+div.popup-container div.popup {
+    background-color: #f0f0f0;
+    max-width: 400px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+div.popup-container div.popup h2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: #30475e;
+}
+
+div.popup-container div.popup button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 18px;
+    font-weight: 550;
+    color: #797775;
+    cursor: pointer;
+}
+
+div.popup-container div.popup input {
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #30475e;
+    border-radius: 0;
+    padding: 8px 0;
+    font-weight: 550;
+    font-size: 14px;
+    outline: none;
+}
+
+/* Add these styles for the "Login" and "Register" buttons in the popup forms */
+div.popup-container div.popup button.login-button,
+div.popup-container div.popup button.register-button {
+    font-weight: 550;
+    font-size: 15px;
+    color: white;
+    background-color: #30475e; /* Set the background color for the buttons */
+    padding: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease-in-out; /* Transition effect for background color change */
+}
+
+/* Apply styles when the button is active (clicked) */
+div.popup-container div.popup button.login-button:active,
+div.popup-container div.popup button.register-button:active {
+    background-color: #e56b53; /* Change the color when clicked */
+}
+
+/* Add these styles for the "Already have an account?" and "Don't have an account?" links */
+div.popup-container div.popup button.register-link,
+div.popup-container div.popup button.login-link {
+    background-color: #30475e; /* Background color */
+    color: #fff; /* Text color */
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    padding: 8px 16px; /* Padding for better spacing */
+    margin-top: 10px;
+    transition: background-color 0.3s ease-in-out; /* Transition effect for background color change */
+}
+
+/* Apply styles when the link is active (clicked) */
+div.popup-container div.popup button.register-link:active,
+div.popup-container div.popup button.login-link:active {
+    background-color: #e56b53; /* Change the color when clicked */
+    text-decoration: none; /* Remove underline on click */
+}
+
+
+
+
+
+
+
+/* Background Styles */
+body {
+    background-image: url('img.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+}
+
+/* Footer Styles */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #30475e;
+    padding: 20px 0;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-weight: bold;
+    color: white;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+footer ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+footer ul li a {
+    color: rgb(219, 208, 208);
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    color: #fa9579; /* Change color on hover */
+}
+
+/* Add this media query at the end of your existing CSS */
+@media only screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header h2 {
+        margin-right: 0;
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+    header img {
+        width: 60px;
+        height: auto;
+        margin-right: 10px; /* Adjust margin for spacing */
+    }
+
+    header div.sign-in-up {
+        margin-top: 10px;
+    }
+
+    header nav.nav-links {
+        flex-direction: row;
+        align-items: center;
+        margin-top: 10px; /* Add some space between links in mobile view */
+    }
+
+    header nav.nav-links a {
+        color: white;
+    margin-right: 15px; /* Adjust margin for spacing */
+    font-weight: bold;
+    font-size: 16px; /* Adjust font size */
+    transition: color 0.3s ease-in-out; 
+    }
+
+    .popup-container div.popup {
+        max-width: 100%; /* Adjust the width of the popup in mobile view */
+    }
+
+    .popup-container div.popup input,
+    .popup-container div.popup button {
+        width: 100%; /* Make form elements full width in mobile view */
+    }
+
+    .popup button.register-link,
+    .popup button.login-link {
+        width: 100%; /* Make login and register buttons full width in mobile view */
+    }
+}
+

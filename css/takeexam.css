@@ -1,0 +1,87 @@
+/* CSS for Take Test Page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+header a.back-link {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.container {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+.back-link {
+    color: white; /* Set the color to white */
+    float: left; /* Align to the left */
+    margin-right: 10px; /* Add some spacing to the right of the arrow */
+    
+}
+#timer {
+    font-size: 36px; /* Adjust the font size as needed */
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #FFFFFF; /* Background color for the timer box */
+    z-index: 999; /* Ensure it's above other content */
+    border: 1px solid #ddd; /* Add a border around the timer box */
+    border-radius: 5px; /* Add rounded corners to the timer box */
+}
+
+#countdown {
+    font-weight: bold;
+    color: #FF5733; /* You can choose your desired color */
+}
